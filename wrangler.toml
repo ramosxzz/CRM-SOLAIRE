@@ -1,0 +1,13 @@
+name = "solaire"
+main = "worker.js"
+compatibility_date = "2026-04-24"
+
+[assets]
+directory = "."
+binding = "ASSETS"
+
+[vars]
+SUPABASE_URL = ""
+VAPID_PUBLIC_KEY = ""
+VAPID_SUBJECT = ""
+WHATSAPP_BACKEND_URL = ""

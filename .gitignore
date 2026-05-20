@@ -1,0 +1,21 @@
+node_modules/
+.wrangler/
+.env
+.env.*
+*.log
+*.tmp
+
+# Dados operacionais com contatos/leads
+*.csv
+*.xlsx
+*.xls
+
+# Sessoes locais do WhatsApp/Baileys
+whatsapp-backend/data/
+whatsapp-backend/auth/
+
+# Arquivos gerados pelo sistema
+dist/
+build/
+.DS_Store
+Thumbs.db

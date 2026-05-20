@@ -1,0 +1,43 @@
+{
+  "name": "SOLAIRE CRM",
+  "short_name": "SOLAIRE CRM",
+  "id": "/",
+  "description": "CRM da Solaire para leads, contratos e engenharia solar.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone"
+  ],
+  "background_color": "#1E1E1E",
+  "theme_color": "#1E1E1E",
+  "orientation": "portrait-primary",
+  "lang": "pt-BR",
+  "categories": [
+    "business",
+    "productivity",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "./assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "prefer_related_applications": false
+}

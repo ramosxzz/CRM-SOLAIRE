@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="SOLAIRE CRM">
+  <rect width="256" height="256" rx="36" fill="#060606"/>
+  <rect x="56" y="28" width="144" height="124" rx="18" fill="#F3BA34"/>
+  <ellipse cx="86" cy="55" rx="64" ry="44" fill="#FFE08B" opacity="0.2"/>
+  <path d="M187 34C179 67 156 101 102 124L94 104C142 89 167 66 186 35Z" fill="#F7F1E2"/>
+  <path d="M194 67C187 94 167 124 118 145L111 127C153 114 176 88 193 68Z" fill="#F7F1E2"/>
+  <path d="M199 97C193 120 178 147 138 165L132 149C166 138 184 116 198 98Z" fill="#F7F1E2"/>
+  <text x="128" y="201" fill="#F2F2F0" font-family="Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="6" text-anchor="middle">SOLAIRE</text>
+  <text x="128" y="232" fill="#D8A83A" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="9" text-anchor="middle">CRM</text>
+</svg>
